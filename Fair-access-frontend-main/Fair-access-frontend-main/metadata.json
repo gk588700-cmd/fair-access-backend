@@ -1,0 +1,6 @@
+{
+  "name": "Fair Access - Academic Web Forms",
+  "description": "Fair access rate-limiting and session monitoring dashboard for academic submission portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
